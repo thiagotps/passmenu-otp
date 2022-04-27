@@ -1,0 +1,7 @@
+#+TITLE: passmenu-otp
+
+* About
+A little adaptation of passmenu to make it work with OTP.
+The script expects that all OTP definitions be stored in files named OTP.gpg
+For example, if you have an OTP configured for AWS, it should be stored in a way similar to
+=AWS/OTP=.
